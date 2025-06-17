@@ -1,4 +1,5 @@
 📂 File Handler
+---
 File Handler is a simple Python-based file management project.
 It allows you to create, view, update, rename, and delete files using an interactive terminal interface.
 ---
