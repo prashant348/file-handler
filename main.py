@@ -1,4 +1,4 @@
-'''file.manager.io'''
+'''file-handler'''
 
 import os
 from prompt_toolkit import prompt
